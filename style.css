@@ -5,14 +5,14 @@ body {
 }
 
 h1 {
+  font-family: 'Zen Dots', cursive;
   
   background-color: black;
   
   color: whitesmoke;
   
   font-size: 55px;
-
-  font-family: 'Zen Dots', cursive;
+  
 }
 
 p {
