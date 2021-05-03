@@ -1,7 +1,7 @@
 body {
     font-size: 15pt;
     
-    background-image: linear-gradient(whitesmoke, black);
+    background-image: linear-gradient(white, whitesmoke);
 }
 
 
@@ -9,7 +9,7 @@ body {
 p {
   
   font-family: 'Nanum Gothic', sans-serif;
-  font-color: White;
+  font-color: grey;
   
 }
 
